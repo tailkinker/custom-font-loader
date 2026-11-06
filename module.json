@@ -2,6 +2,7 @@
   "id": "custom-font-loader",
   "title": "Custom Font Loader",
   "description": "Replaces the default Foundry VTT user interface font.",
+  "download": "https://github.com/tailkinker/custom-font-loader/archive/refs/heads/main.zip",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
