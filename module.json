@@ -1,0 +1,21 @@
+{
+  "id": "custom-font-loader",
+  "title": "Custom Font Loader",
+  "description": "Replaces the default Foundry VTT user interface font.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Timothy Groves"
+    }
+  ],
+  "esmodules": [
+    "main.js"
+  ],
+  "styles": [
+    "styles.css"
+  ]
+}
